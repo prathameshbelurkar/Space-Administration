@@ -1,11 +1,11 @@
 const express = require("express");
 
 // Importing Controllers
-const { getAllPlanets } = require("./planets.controller");
+const { httpGetAllPlanets } = require("./planets.controller");
 
 const planetsRouter = express.Router();
 
 // Setting Paths
-planetsRouter.get("/planets", getAllPlanets);
+planetsRouter.get("/planets", httpGetAllPlanets);
 
 module.exports = planetsRouter;
