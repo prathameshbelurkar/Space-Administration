@@ -13,7 +13,7 @@ _React application to display & manage different components on dashboard enables
 
 **Get Code into local machine 🧑‍💻**
 
-    https://github.com/prathameshbelurkar/Space-Administration-Project
+    git clone https://github.com/prathameshbelurkar/Space-Administration-Project
 
 <br>
 
@@ -24,7 +24,11 @@ _React application to display & manage different components on dashboard enables
 3. `cd ../server`
 4. `node src/server.js`
 
+<br>
+
 <hr>
+
+<br>
 
 ### 👉 React
 
